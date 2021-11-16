@@ -1,0 +1,116 @@
+{
+    "item": [
+        {
+            "SlNo" : 1,
+            "ItemName" : "Wheat",
+            "Qty" :5,
+            "Unit" : "kg",
+            "Department" : "Grocery",
+            "Notes" : "Premium"
+                           
+        },
+        {
+            "SlNo" : 2,
+            "ItemName" : "Rice",
+            "Qty" :5,
+            "Unit" : "kg",
+            "Department" : "Grocery",
+            "Notes" : "Ponni"
+                           
+        },
+        {
+            "SlNo" : 3,
+            "ItemName" : "Oil",
+            "Qty" :3,
+            "Unit" : "Ltr",
+            "Department" : "Grocery",
+            "Notes" : "Coconut Oil"
+                           
+        },
+        {
+            "SlNo" : 4,
+            "ItemName" : "Potato",
+            "Qty" :1,
+            "Unit" : "Kg",
+            "Department" : "Vegetables",
+            "Notes" : "Sweet"
+                           
+        },
+
+        {
+            "SlNo" : 5,
+            "ItemName" : "Onion",
+            "Qty" :2,
+            "Unit" : "Kg",
+            "Department" : "Vegetables",
+            "Notes" : "Fresh"
+                           
+        },
+
+        {
+            "SlNo" : 6,
+            "ItemName" : "Dal",
+            "Qty" :2,
+            "Unit" : "Kg",
+            "Department" : "Grocery",
+            "Notes" : "Toor Dal"
+                           
+        },
+
+        {
+            "SlNo" : 7,
+            "ItemName" : "Honey",
+            "Qty" :750,
+            "Unit" : "mg",
+            "Department" : "Grocery",
+            "Notes" : "Dabur"
+                           
+        },
+        {
+            "SlNo" : 8,
+            "ItemName" : "Tooth paste",
+            "Qty" :250,
+            "Unit" : "mg",
+            "Department" : "Grocery",
+            "Notes" : "Pepsodent"
+                           
+        },
+        {
+            "SlNo" : 9,
+            "ItemName" : "Washing Soap",
+            "Qty" :150,
+            "Unit" : "g",
+            "Department" : "Stationary",
+            "Notes" : "Surf excel"
+                           
+        },
+        {
+            "SlNo" : 10,
+            "ItemName" : "Mustard Seeds",
+            "Qty" :200,
+            "Unit" : "g",
+            "Department" : "Grocery",
+            "Notes" : "Premium quality"
+                           
+        },
+        {
+            "SlNo" : 11,
+            "ItemName" : "Rice",
+            "Qty" :5,
+            "Unit" : "Kg",
+            "Department" : "Grocery",
+            "Notes" : "Basmati"
+                           
+        },
+        {
+            "SlNo" : 12,
+            "ItemName" : "Tomato",
+            "Qty" :1,
+            "Unit" : "kg",
+            "Department" : "Vegetables",
+            "Notes" : "Ripe"
+                           
+        }
+        
+    ]
+}
